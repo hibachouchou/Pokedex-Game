@@ -1,3 +1,3 @@
 # Pokedex-Game
 
-![Memory Card Game](game.png)
+![Pokedex Game](game.png)
